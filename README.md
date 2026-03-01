@@ -92,11 +92,3 @@ pip install pandas numpy scikit-learn xgboost
 
 ---
 
-## 🧪 Potential Improvements
-
-* Add more features (e.g., ELO ratings, goal differences, player statistics)
-* Enhance the betting simulation with dynamic strategies (e.g., martingale)
-* Visualize the tournament tree or prediction accuracy using `matplotlib` or `plotly`
-* Create a web interface for simulation
-
----
